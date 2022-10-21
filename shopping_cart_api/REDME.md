@@ -1,7 +1,6 @@
-use 
-show dbs 
-to display all data bases
+Project for Shopping Cart API
 
-use 
-show collections  
-view data tables
+- for the display all databases you need to use SHOWDB
+- use 
+> show collections  
+> view data tables
